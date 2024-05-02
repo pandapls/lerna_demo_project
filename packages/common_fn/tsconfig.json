@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "moduleResolution": "node",
+    "strict": true,
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "skipLibCheck": false,
+    "baseUrl": ".",
+    "paths": {
+      "@packages/comon_": ["../packages/common_eum"]
+    }
+  }
+}
